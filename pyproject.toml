@@ -20,7 +20,7 @@ dependencies = [
     # Data manipulation and analysis
     "einops",
     "eindex-callum",
-    "numpy<2",
+    "numpy>=1.26.0,<2.0.0",
     # Utilities
     "pytest",
     "tqdm",
