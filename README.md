@@ -1,6 +1,15 @@
-# ARENA Workshop: Transformers & Mechanistic Interpretability
+# 5 Feb'26 ARENA Workshop: Transformers & Mechanistic Interpretability
 
-A comprehensive workshop covering transformer architecture implementation and mechanistic interpretability analysis using PyTorch and transformer-lens.
+​This week we'll be hosting a workshop based on ARENA's mechanistic interpretability course. We'll focus on explaining and using transformer_lens - a popular mech interp python library. ​Sneak peek at the code here - we'll see how far we get through the first 2 sections!
+
+Lots of:
+- Python
+- PyTorch
+- TransformerLens (1.2 notebook)
+
+NOTE - these notebooks are directly copied from ARENA, except the setup cells have been changed because the old original ones broke.
+
+[ARENA Streamlit Page](https://arena-chapter1-transformer-interp.streamlit.app/)
 
 ## Overview
 
@@ -24,8 +33,6 @@ Learn to dissect and understand how transformers process information internally 
 
 - **Exercises**: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DurhamAISafety/5-feb-ARENA-workshop/blob/main/1.2_Intro_to_Mech_Interp_exercises.ipynb)
 - **Solutions**: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DurhamAISafety/5-feb-ARENA-workshop/blob/main/1.2_Intro_to_Mech_Interp_solutions.ipynb)
-
-**Supplementary**: [ARENA Streamlit Page](https://arena-chapter1-transformer-interp.streamlit.app/)
 
 ## Setup
 
