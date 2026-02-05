@@ -14,7 +14,7 @@ dependencies = [
     "torch",
     # ML & DL
     "huggingface_hub",
-    "transformers",
+    "transformers>=4.30.0,<4.40.0",
     "datasets",
     "wandb",
     # Data manipulation and analysis
