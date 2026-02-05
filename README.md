@@ -25,13 +25,30 @@ Learn to dissect and understand how transformers process information internally 
 - **Exercises**: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DurhamAISafety/5-feb-ARENA-workshop/blob/main/1.2_Intro_to_Mech_Interp_exercises.ipynb)
 - **Solutions**: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DurhamAISafety/5-feb-ARENA-workshop/blob/main/1.2_Intro_to_Mech_Interp_solutions.ipynb)
 
-**Supplementary**: [ARENA Streamlit Page](https://arena-chapter1-transformer-interp.streamlit.app/02_[1.2]_Intro_to_Mech_Interp)
+**Supplementary**: [ARENA Streamlit Page](https://arena-chapter1-transformer-interp.streamlit.app/)
 
 ## Setup
 
 ### Using Google Colab (Recommended)
 
 The easiest way to run these notebooks is via Google Colab (links above). No setup required.
+
+#### Saving Your Work in Colab
+
+To persist your changes and keep your work safe, you have two options:
+
+**Option 1: Save to Google Drive (Recommended)**
+1. Open the notebook in Colab using the links above
+2. Click **File** → **Save a copy in Drive**
+3. This creates a copy in your Google Drive that you can edit and save normally
+4. All changes are automatically saved to your Drive
+
+**Option 2: Download the Notebook**
+1. Click **File** → **Download** → **Download .ipynb**
+2. Save the notebook locally on your computer
+3. You can later upload it back to Colab to continue working
+
+> **Tip**: If you don't save a copy to Drive, your changes will be lost when you close the tab. Always save to Drive if you plan to revisit your work!
 
 ### Local Setup
 
